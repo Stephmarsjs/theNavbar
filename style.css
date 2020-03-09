@@ -6,3 +6,8 @@
     align-items: center;
     /* vertically aligns the flex child elements */ 
 }
+.nav.ul {
+    display: flex;
+    justify-content: center;
+    /*centers the links horizontally*/
+}
