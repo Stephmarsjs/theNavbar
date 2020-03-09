@@ -1,0 +1,18 @@
+nav { 
+    display: flex;
+    /* turns on flexbox */
+    justify-content: space-between;
+    /* horizontally aligns thw flex child elements on the outer edges of the row */
+    align-items: center;
+    /* vertically aligns the flex child elements */ 
+}
+nav ul {
+    display: flex;
+    justify-content: center;
+    /*centers the links horizontally*/
+}
+
+nav li {
+    display: flex;
+    margin-right: 20px;
+}
