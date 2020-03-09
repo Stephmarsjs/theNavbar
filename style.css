@@ -19,3 +19,13 @@ nav li {
     display: flex;
     margin-right: 20px;
 }
+nav li a {
+    display: block;
+    width:50px;
+    background-color: #dddddd;
+}
+nav a {
+    display: block;
+    width:50px;
+    background-color: #dddddd;
+}
