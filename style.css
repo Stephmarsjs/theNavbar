@@ -1,0 +1,8 @@
+.nav{
+    display: flex;
+    /* turns on flexbox */
+    justify-content: space-between;
+    /* horizontally aligns thw flex child elements on the outer edges of the row */
+    align-items: center;
+    /* vertically aligns the flex child elements 
+}
