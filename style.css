@@ -6,13 +6,16 @@
     align-items: center;
     /* vertically aligns the flex child elements */ 
 }
-.nav > ul {
+.nav ul {
     display: flex;
     justify-content: center;
     /*centers the links horizontally*/
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-.nav > li {
+.nav li {
     display: flex;
     margin-right: 20px;
 }
